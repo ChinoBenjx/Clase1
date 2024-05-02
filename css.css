@@ -2,3 +2,10 @@
 
 .imagen {width: 220px;
         height: 50px;}
+
+
+.acercade {
+    display: inline-block;
+    background-color: rgb(247, 72, 72);
+    padding: 3px;
+    border-radius: 10px;}
